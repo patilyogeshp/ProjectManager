@@ -1,0 +1,17 @@
+
+
+.navbar
+{
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: rgba(24,154,214,0.2)!important;
+}
+
+.navbar .nav-link.active,.navbar .nav-link:hover
+{
+ color: blue;
+}
+
+.form-control {
+    background-color: #e4f1fe!important;
+}
